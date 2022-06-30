@@ -1,24 +1,10 @@
-# README
+# LinkSync
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Nossa App de organização de links marota.
 
-Things you may want to cover:
+## TODO
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- [ ] criando uma entidade `user`
+- [ ] criar nossas validações para `user`
+- [ ] criando uma entidade `link`
+- [ ] criar nossas validações para `link`
